@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center
+}
+
+.container {
+    padding: 40px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+​
+
+.balance h3 {
+    margin-top: 0;
+}
+​
+.balance table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+.balance th,
+.balance td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+.add-balance button {
+    padding: 8px 16px;
+    background-color: #00FFFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
